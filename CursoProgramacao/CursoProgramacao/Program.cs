@@ -11,17 +11,19 @@ partial class Progam
 
         //aula1.Subtrair();
 
-       //aula1.dividir();    
+        //aula1.dividir();    
 
 
 
 
-        Aula2 aula2 = new Aula2();
-        aula2.ValorPar();
+        //Aula2 aula2 = new Aula2();
+        // aula2.Avaliação();
 
 
 
-
+        Aula3 aula3 = new Aula3();
+        aula3.CategoriaIdade();
+        
 
     }
 }
